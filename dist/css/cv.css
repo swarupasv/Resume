@@ -33,3 +33,60 @@
 	position: relative;
 	bottom: 120px;
 	margin-bottom: 465px;
+}
+.imd p
+{
+	position: relative;
+	color: white;
+	text-align:left;
+}
+.box 
+{
+	border:2px solid black;
+	box-shadow: 20px 0px 20px 0px;
+	padding: 10px;
+	color: lightgrey;
+}
+.box p
+{
+	padding: 20px;
+	color: rgb(73, 252, 13);
+
+}
+.box h3
+{
+	text-align: center;
+	color: darkblue;
+	background-color: lightgreen;
+	padding: 10px;
+
+}
+.caret
+{
+	padding-bottom: 5px;
+	color: red;
+}
+.imd h2
+{
+	color: green;
+	text-align: center;
+	background-color: lightgrey;
+	padding: 10px;
+	margin-top: -111px;
+	box-shadow: 10px 0px 10px 0px;
+	margin-bottom: 40px;
+}
+.pr
+{
+	padding:10px;
+	background-color: white;
+	border:1px solid black;
+    margin-top: 50px;
+}
+.prd
+{
+	color: darkblue;
+	background-color: grey;
+	padding: 10px;
+	margin-top: 50px;
+}
