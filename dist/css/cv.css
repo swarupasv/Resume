@@ -1,0 +1,14 @@
+
+.navbar
+{
+	color: red;
+	background-color: lightblue;
+	position: fixed;
+}
+.me
+{
+
+    font-size: 20px;
+    padding-top: 5px;
+    right: -580px;
+}
