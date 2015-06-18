@@ -20,3 +20,16 @@
 	position: fixed;
 	
 }
+.imd h1
+{
+	  color: white;
+	  font-size: 60px;
+	  position: relative;
+	 margin-bottom: 135px;
+}
+.but
+{
+	color: green;
+	position: relative;
+	bottom: 120px;
+	margin-bottom: 465px;
